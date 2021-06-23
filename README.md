@@ -6,5 +6,5 @@
 ## Day-5:[PySpark : Tweet Sentiment Analysis (Sentiment140 dataset with 1.6 million tweets](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%205/PySpark_Tweet_Sentiment_Analysis.ipynb)
 ## Day-6:[Sentiment analysis using Google's trained word2vec](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%206/Google's_trained_word2vec.ipynb)
 ## Day-7:[Spacy: Sentiment Anlysis on IMDB movie Reviews using Word2vec Embedding](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%207/Spacy_Sentiment_Anlysis_on_IMDB_movie_Reviews_using_Word2vec_Embedding.ipynb)
-
+## Day 8:[Twitter Sentiment Analysis using Deep learning Word2vec Embedding](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%208/Twitter_Sentiment_Analysis_using_Deep_learning_Word2vec_Embedding.ipynb)
 
