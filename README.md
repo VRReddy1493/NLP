@@ -10,3 +10,4 @@
 #### Day 9:[Twitter Sentiment Analysis using RNN+Word2vec Embedding](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%209/Twitter_Sentiment_Analysis_using_RNN%2BWord2vec_Embedding_.ipynb)
 #### Day 10:[Twitter Sentiment Analysis using LSTM+Word2vec Embedding](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2010/Twitter_Sentiment_Analysis_using_LSTM%2BWord2vec_Embedding.ipynb)
 #### Day 11:[Sentiment analsysis on Amazon Cell Phones Reviews with Bidirectional LSTM](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2011/Sentiment_analsysis_on_Amazon_Cell_Phones_Reviews_with_Bidirectional_LSTM.ipynb)
+#### Day 12:[Glove +BiLSTM Sentiment analsysis on Amazon Cell Phones Reviews](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2012/Glove_%2BBiLSTM_Sentiment_analsysis_on_Amazon_Cell_Phones_Reviews.ipynb)
