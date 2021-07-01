@@ -12,3 +12,4 @@
 #### Day 11:[Sentiment analsysis on Amazon Cell Phones Reviews with Bidirectional LSTM](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2011/Sentiment_analsysis_on_Amazon_Cell_Phones_Reviews_with_Bidirectional_LSTM.ipynb)
 #### Day 12:[Glove +BiLSTM Sentiment analsysis on Amazon Cell Phones Reviews](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2012/Glove_%2BBiLSTM_Sentiment_analsysis_on_Amazon_Cell_Phones_Reviews.ipynb)
 #### Day 13:[Word2Vector using Gensim+BiLSTM Sentiment analsysis on Amazon Cell Phones Reviews¶](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2013/Word2Vector_using_Gensim%2BBiLSTM_Sentiment_analsysis_Sentiment_analsysis_on_Amazon_Cell_Phones_Reviews%20(1).ipynb)
+#### Day 14:[FastText+BiLSTM Sentiment analsysis on Amazon Cell Phones Reviews](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2014/FastText%2BBiLSTM_Sentiment_analsysis_on_Amazon_Cell_Phones_Reviews%20(1).ipynb)
