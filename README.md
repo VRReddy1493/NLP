@@ -15,3 +15,4 @@
 #### Day 14:[FastText+BiLSTM Sentiment analsysis on Amazon Cell Phones Reviews](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2014/FastText%2BBiLSTM_Sentiment_analsysis_on_Amazon_Cell_Phones_Reviews%20(1).ipynb)
 #### Day 15:[Average Word2Vector using Gensim+BiLSTM Sentiment analysis on Amazon Cell Phones Reviews](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2015/Average_Word2Vector_using_Gensim%2BBiLSTM_Sentiment_analysis_on_Amazon_Cell_Phones_Reviews.ipynb)
 #### Day 16:[BERT Sentiment analysis on Amazon Cell Phones Reviews](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2016/BERT_Sentiment_analysis_on_Amazon_Cell_Phones_Reviews.ipynb)
+#### Day 17:[DistilBERT Sentiment analsysis on Amazon Cell Phones Reviews](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2017/DistilBERT%20Sentiment%20analsysis%20on%20Amazon%20Cell%20Phones%20Reviews.ipynb)
