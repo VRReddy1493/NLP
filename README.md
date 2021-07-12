@@ -16,3 +16,7 @@
 #### Day 15:[Average Word2Vector using Gensim+BiLSTM Sentiment analysis on Amazon Cell Phones Reviews](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2015/Average_Word2Vector_using_Gensim%2BBiLSTM_Sentiment_analysis_on_Amazon_Cell_Phones_Reviews.ipynb)
 #### Day 16:[BERT Sentiment analysis on Amazon Cell Phones Reviews](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2016/BERT_Sentiment_analysis_on_Amazon_Cell_Phones_Reviews.ipynb)
 #### Day 17:[DistilBERT Sentiment analsysis on Amazon Cell Phones Reviews](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2017/DistilBERT%20Sentiment%20analsysis%20on%20Amazon%20Cell%20Phones%20Reviews.ipynb)
+#### Day 18:[English/French Translator: Long Short Term Memory Networks](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2018/English_French_Translator.ipynb)
+#### Day 19:[English/French Translator:Sequence-to-Sequence](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2019/English_French_Translator.ipynb)
+#### Day 20:[English/telugu Translator: Seq 2 Seq](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2020/English_teluguTranslator.ipynb)
+#### Day 21:[Named Entity Recognition(NER) using NLTK & SpaCy](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2021/Named_Entity_Recognition(NER)_using_NLTK_%26_SpaCy.ipynb)
