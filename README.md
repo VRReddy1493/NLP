@@ -20,3 +20,5 @@
 #### Day 19:[English/French Translator:Sequence-to-Sequence](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2019/English_French_Translator.ipynb)
 #### Day 20:[English/telugu Translator: Seq 2 Seq](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2020/English_teluguTranslator.ipynb)
 #### Day 21:[Named Entity Recognition(NER) using NLTK & SpaCy](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2021/Named_Entity_Recognition(NER)_using_NLTK_%26_SpaCy.ipynb)
+#### Day 22:[Custom Named Entity Recognition model with spaCy(clinical named entity recognition)](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2022/Custom_Named_Entity_Recognition_model_with_spaCy%20(1).ipynb)
+#### Day 23:[Custom Named Entity Recognition model using **Ktrain BioBert_NER**](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2023/Custom_Named_Entity_Recognition_model_using_Ktrain_BioBert_NER.ipynb)
