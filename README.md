@@ -23,3 +23,4 @@
 #### Day 22:[Custom Named Entity Recognition model with spaCy(clinical named entity recognition)](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2022/Custom_Named_Entity_Recognition_model_with_spaCy%20(1).ipynb)
 #### Day 23:[Custom Named Entity Recognition model using **Ktrain BioBert_NER**](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2023/Custom_Named_Entity_Recognition_model_using_Ktrain_BioBert_NER.ipynb)
 #### Day 24:[Named Entity Recognition (NER) using LSTMs with Keras](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2024/NER.ipynb)
+#### Day 25:[Text summarization with Spacy](https://github.com/mrvmurali1991/NLP-Projects/blob/main/Day%2025/Text_summarization_with_Spacy.ipynb)
